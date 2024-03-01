@@ -1,0 +1,52 @@
+{
+    "pages": [
+        {
+            "title": "DNS",
+            "description": "Local DNS links.",
+            "links": [
+                {
+                    "title": "Pi-hole",
+                    "link": "http://192.168.86.160"
+                },
+                {
+                    "title": "Pi-hole2",
+                    "link": "http://192.168.86.161"
+                }
+            ]
+        },
+        {
+            "title": "Storage",
+            "description": "Storage Area Networks",
+            "links": [
+                {
+                    "title": "Synology",
+                    "link": "http://192.168.86.100"
+                }
+            ]
+        },
+        {
+            "title": "Media",
+            "description": "Media Servers",
+            "links": [
+                {
+                    "title": "Jellyfin",
+                    "link": "http://192.168.86.230"
+                }
+            ]
+        },
+        {
+            "title": "Docker",
+            "description": "Docker Administration",
+            "links": [
+                {
+                    "title": "Portainer",
+                    "link": "http://192.168.86.180"
+                },
+                {
+                    "title": "Rancher",
+                    "link": "http://192.168.86.180:9443"
+                }
+            ]
+        }
+    ]
+}
